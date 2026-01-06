@@ -6,7 +6,7 @@ This project analyzes Uber booking data to understand ride performance, revenue 
 ---
 
 ## 2. Data and Approach
-- **Dataset Size:** ~150,000 booking records  
+- **Dataset Size:** ~15,000 booking records  
 - **Granularity:** One record per booking  
 - **Time Period:** One full calendar year  
 
