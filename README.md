@@ -31,6 +31,8 @@ This approach was chosen to directly link booking outcomes with revenue and cust
 
 ---
 
+![Uber Booking Analytics Dashboard](assests/preview1.png)
+
 ## 3. Results
 - **Total Bookings:** 149K  
 - **Completed Bookings:** 93K  
